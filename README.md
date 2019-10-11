@@ -51,4 +51,4 @@ To change your avatar, click on the existing avatar of yours and select the "Cha
 
 ## Demo
 
-You can visit for a working demo.
+You can visit https://dev-chat-application.herokuapp.com for a working demo.
